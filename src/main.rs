@@ -3,6 +3,7 @@ mod state;
 mod codegen;
 mod server;
 mod conn;
+mod protocol;
 
 use anyhow::Result;
 
